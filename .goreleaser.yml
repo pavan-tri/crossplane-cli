@@ -48,6 +48,7 @@ builds:
 
   goarch:
   - amd64
+  - arm64
 
 - id: "pack"
   main: ./cmd/pack/main.go
